@@ -1,0 +1,183 @@
+[
+  {
+    "name": "教父3 / The Godfather: Part III",
+    "score": "8.8",
+    "quote": "任何信念的力量，都无法改变命运。",
+    "ranking": "151",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg"
+  },
+  {
+    "name": "纵横四海 / 緃横四海",
+    "score": "8.7",
+    "quote": "香港浪漫主义警匪动作片的巅峰之作。",
+    "ranking": "152",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2272146906.jpg"
+  },
+  {
+    "name": "花样年华 / 花樣年華",
+    "score": "8.5",
+    "quote": "偷情本没有这样美。",
+    "ranking": "153",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg"
+  },
+  {
+    "name": "玩具总动员3 / Toy Story 3",
+    "score": "8.8",
+    "quote": "跨度十五年的欢乐与泪水。",
+    "ranking": "154",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg"
+  },
+  {
+    "name": "请以你的名字呼唤我 / Call Me by Your Name",
+    "score": "8.8",
+    "quote": "沉醉在电影的情感和视听氛围中无法自拔。",
+    "ranking": "155",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg"
+  },
+  {
+    "name": "唐伯虎点秋香 / 唐伯虎點秋香",
+    "score": "8.4",
+    "quote": "华太师是黄霑，吴镇宇四大才子之一。",
+    "ranking": "156",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1946455272.jpg"
+  },
+  {
+    "name": "超能陆战队 / Big Hero 6",
+    "score": "8.6",
+    "quote": "Balalala~~~",
+    "ranking": "157",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224568669.jpg"
+  },
+  {
+    "name": "猜火车 / Trainspotting",
+    "score": "8.5",
+    "quote": "不可猜的青春迷笛。 ",
+    "ranking": "158",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg"
+  },
+  {
+    "name": "魂断蓝桥 / Waterloo Bridge",
+    "score": "8.8",
+    "quote": "中国式内在的美国电影。",
+    "ranking": "159",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg"
+  },
+  {
+    "name": "时空恋旅人 / About Time",
+    "score": "8.6",
+    "quote": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。",
+    "ranking": "160",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg"
+  },
+  {
+    "name": "穿越时空的少女 / 時をかける少女",
+    "score": "8.6",
+    "quote": "爱上未来的你。 ",
+    "ranking": "161",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg"
+  },
+  {
+    "name": "蝙蝠侠：黑暗骑士崛起 / The Dark Knight Rises",
+    "score": "8.6",
+    "quote": "诺兰就是保证。",
+    "ranking": "162",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg"
+  },
+  {
+    "name": "雨中曲 / Singin' in the Rain",
+    "score": "9.0",
+    "quote": "骨灰级歌舞片。",
+    "ranking": "163",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg"
+  },
+  {
+    "name": "二十二",
+    "score": "8.7",
+    "quote": "有一些东西不应该被遗忘。",
+    "ranking": "164",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg"
+  },
+  {
+    "name": "我是山姆 / I Am Sam",
+    "score": "8.8",
+    "quote": "爱并不需要智商 。",
+    "ranking": "165",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg"
+  },
+  {
+    "name": "人工智能 / Artificial Intelligence: AI",
+    "score": "8.6",
+    "quote": "对爱的执着，可以超越一切。",
+    "ranking": "166",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg"
+  },
+  {
+    "name": "达拉斯买家俱乐部 / Dallas Buyers Club",
+    "score": "8.7",
+    "quote": "Jared Leto的腿比女人还美！",
+    "ranking": "167",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg"
+  },
+  {
+    "name": "冰川时代 / Ice Age",
+    "score": "8.5",
+    "quote": "松鼠才是角儿。",
+    "ranking": "168",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg"
+  },
+  {
+    "name": "浪潮 / Die Welle",
+    "score": "8.7",
+    "quote": "世界离独裁只有五天。",
+    "ranking": "169",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg"
+  },
+  {
+    "name": "朗读者 / The Reader",
+    "score": "8.5",
+    "quote": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ",
+    "ranking": "170",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg"
+  },
+  {
+    "name": "香水 / Perfume: The Story of a Murderer",
+    "score": "8.4",
+    "quote": "一个单凭体香达到高潮的男人。",
+    "ranking": "171",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p470006658.jpg"
+  },
+  {
+    "name": "爆裂鼓手 / Whiplash",
+    "score": "8.6",
+    "quote": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。",
+    "ranking": "172",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg"
+  },
+  {
+    "name": "罗生门 / 羅生門",
+    "score": "8.7",
+    "quote": "人生的N种可能性。",
+    "ranking": "173",
+    "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1864872647.jpg"
+  },
+  {
+    "name": "未麻的部屋 / Perfect Blue",
+    "score": "8.8",
+    "quote": "好的剧本是，就算你猜到了结局也猜不到全部。",
+    "ranking": "174",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg"
+  },
+  {
+    "name": "阿飞正传 / 阿飛正傳",
+    "score": "8.5",
+    "quote": "王家卫是一种风格，张国荣是一个代表。",
+    "ranking": "175",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg"
+  }
+]  "name": "一个叫欧维的男人决定去死 / En man som heter Ove",
+    "score": "8.7",
+    "quote": "惠及一生的美丽。",
+    "ranking": "200",
+    "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg"
+  }
+]
